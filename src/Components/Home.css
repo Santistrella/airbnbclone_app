@@ -1,0 +1,14 @@
+.home_section {
+    display: flex;
+    padding: 40px;
+    justify-content: center;
+}
+
+@media only screen and (max-width: 600px) {
+    .home_section {
+        display: flex;
+        padding: 20px;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+}

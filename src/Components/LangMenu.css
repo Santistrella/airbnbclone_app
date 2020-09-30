@@ -1,0 +1,8 @@
+.langButton:hover {
+    background-color: #f7f7f7 !important;
+    color: #ff7779 !important;
+    border-radius: 50% !important;
+    transition: 100ms !important;
+    width: 50px !important;
+    height: 50px !important;
+}
